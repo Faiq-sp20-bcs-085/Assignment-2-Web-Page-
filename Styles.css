@@ -1,0 +1,241 @@
+#image-header{
+display:flex;
+
+justify-content: center;
+}
+#image-header #Image{
+    height:50;
+    margin-right:15px;
+    margin:1
+    
+}
+#Search-bar{
+    margin-left:200px;
+    width:500px;
+   padding-left:10px;
+   padding-bottom:10px;
+   padding-right:400px;
+  display:flex;
+  justify-content: center;
+    margin-top:35px;
+  
+ border:1px solid gray;
+ border-radius: 40px;
+
+
+}
+input{
+    outline: 0px;
+    margin-top:15px;
+    border: 0px;
+  width:100%
+}
+.Main-Menu{
+    display:flex;
+    justify-content: center;
+   
+    
+    
+}
+.Main-Menu .Menu{
+    list-style: none;
+display: inline;
+margin:20px;
+text-decoration: none;
+font-size:12px;
+color:black
+}
+.Main-Menu .Menu:hover{
+  font-size:20px;
+ 
+}
+#Date{
+
+   display:flex;
+  padding-right:30px;
+   
+    margin-left:150px
+}
+
+   
+#Date #Date-List{
+font-size:15px;
+color:#454545;
+margin-top:6px;
+margin-right:10px;
+
+
+
+}
+#Date #Kuri-List{
+  font-size:15px;
+  margin-top:6px;
+  margin-left:10px;
+  color:#454545;
+  
+}
+#Date #Blank{
+  color:lightgray
+}
+
+#Front-Image{
+  display:flex;
+  flex-direction:row;
+  margin-left:75px;
+}
+#front-Image{
+width:530px;
+height:330px;
+border-radius: 10px;
+
+}
+#ACCU{
+  outline:none;
+  height:60px;
+  width:50px;
+  margin-left:1190px;
+  margin-bottom:-20px;
+  margin-top:-4px;
+
+}
+
+#Side-Image{
+
+display:flex;
+flex-direction:column;
+width:600px;
+
+margin-left:40px;
+border:1px solid lightgray;
+padding-bottom:20px;
+border-radius:10px;
+
+
+}
+#Side-Image-Text{
+  color:lightcoral;
+  font-size:15px;
+margin-top:15px;
+margin-left:20px;
+
+}
+#Movie-Text{
+  font-size:20px;
+  margin-left:20px;
+}
+ .Listing{
+  list-style-type: upper-alpha;
+
+}
+#Bottom-right{
+  display:flex;
+  flex-direction:row;
+}
+#Lower-Portion{
+
+  margin-top:10px
+}
+#Bottom-Portion{
+display:flex;
+flex-direction:row;
+align-items:center;
+margin-bottom:-45px
+}
+#Paragraph{
+  margin-bottom:90px
+}
+#Bottom-Text{
+  display:flex;
+  justify-content:center;
+  margin-top:-70px;
+  
+  
+}
+
+.Editorials,.Editorial-2{
+  margin-left:115px;
+  
+
+}
+.Edits,.Edits-2{
+  margin-left:10px;
+  list-style-type: none;
+  display: inline;
+}
+#Movies-Description,#Movies-2{
+  display:flex;
+  flex-direction: row;;
+}
+#Movies-Des,#Movies-Des-2{
+  
+  display:flex;
+  flex-direction: row;
+}
+.Text{
+  display: inline;
+  list-style-type: none;
+  
+}
+#Line{
+  display:flex;
+  justify-content: center;
+  margin-top:-10px
+}
+#Line-2{
+  display:flex;
+  justify-content: center;
+  margin-top:20px
+}
+#Articles{
+  display:flex;
+  flex-direction: row;
+  
+}
+.Article-Image{
+  margin-top:10px;
+  margin-left:120px;
+  list-style-type:none;
+ 
+}
+#inline-Text{
+  display:flex;
+  flex-direction: column;
+}
+#inline-Text-2{
+  display:flex;
+  flex-direction: column;
+}
+#Footer{
+  margin-top:-30px;
+  
+}
+#Footer-Portion{
+  display:flex;
+  flex-direction:row;
+}
+.Foot-List{
+  list-style-type: none;
+}
+.Foot-Lists{
+  list-style-type: none;
+  display:inline
+}
+.Foot-Text{
+  display: flex;
+  list-style-type: none;
+  
+}
+#Foot-Links{
+  margin-left:900px
+}
+.Foot-Text:hover{
+  text-decoration: underline;
+}
+.Foot-Text-2{
+  list-style-type: none;
+  display:inline;
+  margin-left:10px
+}
+#Bottom-Partition{
+  margin-top:-40px
+}
